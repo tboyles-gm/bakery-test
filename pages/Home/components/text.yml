@@ -1,0 +1,16 @@
+id: '16817672955370.0679314222172882'
+definitionId: text
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 0
+      y: 0
+      w: 4
+      h: 1
+properties:
+  name: text
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+index: 0
+slots: []
